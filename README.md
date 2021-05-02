@@ -11,4 +11,4 @@ C++ Mingw Install Guide VSCode - <a href="http://code.visualstudio.com/docs/cpp/
     [ <a href="https://www.programiz.com/cpp-programming/online-compiler/" >Programiz</a> ],&nbsp;
     
 REPO-
-    [Click me](https://github.com/Koushikask/CPP.Programs){: .btn}
+    [Click me](https://github.com/Koushikask/CPP.Programs)

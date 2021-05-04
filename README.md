@@ -5,10 +5,10 @@ Here almost every c++ files are my Practice files. some of the files getting fro
 
 - C++ Mingw Install Guide VSCode - [READ](http://code.visualstudio.com/docs/cpp/config-mingw)
 
-###C++ Docs
-- [[CPP Reference](https://en.cppreference.com/w/")],&nbsp;
-- [[ISO CPP](https://isocpp.org/)],&nbsp;
+### C++ Docs
+- [CPP Reference](https://en.cppreference.com/w/"),&nbsp;
+- [ISO CPP](https://isocpp.org/),&nbsp;
 
-###C++ Compilers Online
-- [[Replit](https://replit.com/languages/cpp)],&nbsp;
-- [[ProgramiZ](https://www.programiz.com/cpp-programming/online-compiler/)],&nbsp;
+### C++ Compilers Online
+- [Replit](https://replit.com/languages/cpp),&nbsp;
+- [ProgramiZ](https://www.programiz.com/cpp-programming/online-compiler/),&nbsp;

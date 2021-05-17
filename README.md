@@ -13,5 +13,3 @@
 - [ ] Uranus
 - [ ] Neptune
 - [ ] Comet Haley
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=git%40github.com%3AKoushikask%2FTest_Ground)
